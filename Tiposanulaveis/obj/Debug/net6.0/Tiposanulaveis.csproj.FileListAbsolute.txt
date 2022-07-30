@@ -1,0 +1,15 @@
+C:\Users\Francine_Hoffmann\Desktop\Dell ItAcademy\Tiposanulaveis\bin\Debug\net6.0\Tiposanulaveis.exe
+C:\Users\Francine_Hoffmann\Desktop\Dell ItAcademy\Tiposanulaveis\bin\Debug\net6.0\Tiposanulaveis.deps.json
+C:\Users\Francine_Hoffmann\Desktop\Dell ItAcademy\Tiposanulaveis\bin\Debug\net6.0\Tiposanulaveis.runtimeconfig.json
+C:\Users\Francine_Hoffmann\Desktop\Dell ItAcademy\Tiposanulaveis\bin\Debug\net6.0\Tiposanulaveis.dll
+C:\Users\Francine_Hoffmann\Desktop\Dell ItAcademy\Tiposanulaveis\bin\Debug\net6.0\Tiposanulaveis.pdb
+C:\Users\Francine_Hoffmann\Desktop\Dell ItAcademy\Tiposanulaveis\obj\Debug\net6.0\Tiposanulaveis.csproj.AssemblyReference.cache
+C:\Users\Francine_Hoffmann\Desktop\Dell ItAcademy\Tiposanulaveis\obj\Debug\net6.0\Tiposanulaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francine_Hoffmann\Desktop\Dell ItAcademy\Tiposanulaveis\obj\Debug\net6.0\Tiposanulaveis.AssemblyInfoInputs.cache
+C:\Users\Francine_Hoffmann\Desktop\Dell ItAcademy\Tiposanulaveis\obj\Debug\net6.0\Tiposanulaveis.AssemblyInfo.cs
+C:\Users\Francine_Hoffmann\Desktop\Dell ItAcademy\Tiposanulaveis\obj\Debug\net6.0\Tiposanulaveis.csproj.CoreCompileInputs.cache
+C:\Users\Francine_Hoffmann\Desktop\Dell ItAcademy\Tiposanulaveis\obj\Debug\net6.0\Tiposanulaveis.dll
+C:\Users\Francine_Hoffmann\Desktop\Dell ItAcademy\Tiposanulaveis\obj\Debug\net6.0\refint\Tiposanulaveis.dll
+C:\Users\Francine_Hoffmann\Desktop\Dell ItAcademy\Tiposanulaveis\obj\Debug\net6.0\Tiposanulaveis.pdb
+C:\Users\Francine_Hoffmann\Desktop\Dell ItAcademy\Tiposanulaveis\obj\Debug\net6.0\Tiposanulaveis.genruntimeconfig.cache
+C:\Users\Francine_Hoffmann\Desktop\Dell ItAcademy\Tiposanulaveis\obj\Debug\net6.0\ref\Tiposanulaveis.dll
