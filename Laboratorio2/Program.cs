@@ -37,7 +37,17 @@
     Console.WriteLine(DateTime.MinValue);
 
     ContaCorrente conta3 = new ContaCorrente ("Mary Poppins", "134567892");
-    
+
+    conta3.Depositar(1500);
+    conta3.SalvarSaldo();
+    conta3.Sacar(135);
+    conta3.SalvarSaldo();
+    conta3.Depositar(356);
+    conta3.SalvarSaldo();
+    conta3.SaldoMedio();
+    conta3.SaldoMedioDeposito();
+
+
 
     //Correntista c1 = new Correntista ();
     //Console.WriteLine(c1.Nome);
